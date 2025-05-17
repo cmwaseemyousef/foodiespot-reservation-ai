@@ -1,0 +1,5 @@
+streamlit
+requests
+# openai  # If using OpenAI API
+# transformers  # If using Hugging Face Transformers
+# together  # If using Together API

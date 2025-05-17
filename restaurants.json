@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1, "name": "FoodieSpot Central", "cuisine": "Multi-cuisine", "capacity": 50, "location": "MG Road", "features": ["Rooftop", "Kids Friendly"]
+  },
+  {
+    "id": 2, "name": "Spice Villa", "cuisine": "Indian", "capacity": 30, "location": "Koramangala", "features": ["Live Music"]
+  },
+  {
+    "id": 3, "name": "Olive Grove", "cuisine": "Mediterranean", "capacity": 40, "location": "Indiranagar", "features": ["Outdoor Seating"]
+  },
+  {
+    "id": 4, "name": "Sushi Corner", "cuisine": "Japanese", "capacity": 25, "location": "JP Nagar", "features": ["Sushi Bar", "Takeaway"]
+  },
+  {
+    "id": 5, "name": "Burger Hub", "cuisine": "American", "capacity": 45, "location": "Whitefield", "features": ["Vegan Options"]
+  },
+  {
+    "id": 6, "name": "Tandoori Nights", "cuisine": "North Indian", "capacity": 35, "location": "HSR Layout", "features": ["Buffet"]
+  },
+  {
+    "id": 7, "name": "Noodle Street", "cuisine": "Chinese", "capacity": 38, "location": "Jayanagar", "features": ["Family Friendly"]
+  },
+  {
+    "id": 8, "name": "Pizza Plaza", "cuisine": "Italian", "capacity": 42, "location": "BTM Layout", "features": ["Wood-fired Oven"]
+  },
+  {
+    "id": 9, "name": "Seafood Bay", "cuisine": "Seafood", "capacity": 28, "location": "Marathahalli", "features": ["Bar", "Sea View"]
+  },
+  {
+    "id": 10, "name": "Green Leaf", "cuisine": "Vegetarian", "capacity": 32, "location": "Yelahanka", "features": ["Organic Produce"]
+  },
+  {
+    "id": 11, "name": "Chai & Chat", "cuisine": "Café", "capacity": 20, "location": "Banashankari", "features": ["Snacks", "High Tea"]
+  },
+  {
+    "id": 12, "name": "The Punjab Table", "cuisine": "Punjabi", "capacity": 44, "location": "Malleshwaram", "features": ["Live Music"]
+  },
+  {
+    "id": 13, "name": "Biryani House", "cuisine": "Hyderabadi", "capacity": 50, "location": "Hebbal", "features": ["Private Dining"]
+  },
+  {
+    "id": 14, "name": "South Spice", "cuisine": "South Indian", "capacity": 36, "location": "Ulsoor", "features": ["Traditional"]
+  },
+  {
+    "id": 15, "name": "Falafel Factory", "cuisine": "Middle Eastern", "capacity": 24, "location": "RT Nagar", "features": ["Takeaway"]
+  },
+  {
+    "id": 16, "name": "BBQ Barn", "cuisine": "Barbecue", "capacity": 48, "location": "Koramangala", "features": ["Live Grill"]
+  },
+  {
+    "id": 17, "name": "French Delights", "cuisine": "French", "capacity": 22, "location": "Lavelle Road", "features": ["Bakery", "Desserts"]
+  },
+  {
+    "id": 18, "name": "Sizzler Square", "cuisine": "Continental", "capacity": 37, "location": "Rajajinagar", "features": ["Sizzlers"]
+  },
+  {
+    "id": 19, "name": "Mexican Fiesta", "cuisine": "Mexican", "capacity": 27, "location": "Vijayanagar", "features": ["Cocktails"]
+  },
+  {
+    "id": 20, "name": "Urban Thai", "cuisine": "Thai", "capacity": 26, "location": "Electronic City", "features": ["Home Delivery"]
+  }
+]
